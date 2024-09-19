@@ -1,0 +1,29 @@
+h1{
+    color: black;
+    font-size: 50px ;
+    text-align: center;
+}
+
+div{
+    color: gray;
+    
+    
+    
+
+    justify-content: center;
+    
+}
+div img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+    
+
+}
+.center{
+    display:block ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
